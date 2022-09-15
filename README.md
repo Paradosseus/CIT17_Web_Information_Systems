@@ -1,2 +1,2 @@
-# CIT17_Web_Information_Systems
+# PHP Exercises
 Compiled activities and files in CIT17
