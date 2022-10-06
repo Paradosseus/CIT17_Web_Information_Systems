@@ -1,5 +1,5 @@
 <?php
-$dir_movies = 'C:\Users\colla\Desktop\PHP-Exercises\Array-Project-Movie-Catalog';
+$dir_movies = 'C:\xampp\htdocs\Array-Project-Movie-Catalog\cover-movies';
 $resources = scandir($dir_movies);
 
 function pre_r($array) {
@@ -35,7 +35,7 @@ echo "</tr></table>"
 
 <style>
     #movies {
-        background-color:  #000;
+        background-color:  #88929b;
         color: #fff;
         font: 11pt Calibri;
     }
@@ -48,10 +48,10 @@ echo "</tr></table>"
         font: bold 11pt Calibri;
     }
     tr.odd {
-        background-color: #18182b;
+        background-color: #11200B;
     }
     tr.even {
-        background-color: 141423;
+        background-color: #141423;
     }
     img {
         padding: 10px;
